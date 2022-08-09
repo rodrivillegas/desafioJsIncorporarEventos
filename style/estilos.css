@@ -1,0 +1,46 @@
+body {
+    font-family: 'Kalam', cursive;
+    color: rgb(8, 3, 3);
+    background: url(../img/fondoDeInversion.jpg);
+    height: 100vh;
+    background-size: cover;
+    overflow: auto;  
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    text-align: center;
+    margin-top: 1rem;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    text-align: justify;
+}
+
+
+p{
+    color: darkblue;
+}
+
+h4{
+    color: darkblue;
+}
+
+.contenedorSimulaTuCredito {
+    margin-top: 1rem;
+}
+
+.titularSimulaTuCredito{
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.hidden {
+display: none;
+}
+
